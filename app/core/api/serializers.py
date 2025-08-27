@@ -15,6 +15,7 @@ from core.models import PracticeArea
 from core.models import ProgramArea
 from core.models import Project
 from core.models import ProjectStatus
+from core.models import Accomplishment
 from core.models import Referrer
 from core.models import ReferrerType
 from core.models import Sdg
